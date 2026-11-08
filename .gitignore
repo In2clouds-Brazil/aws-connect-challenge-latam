@@ -1,0 +1,24 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+*.log
+
+# Archivos internos del IDE
+.kiro/
+project-specs/
+*.config.kiro
+
+# Temporales
+*.tmp
+*.bak
+
+# Credenciales y configuración local
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
