@@ -1,4 +1,4 @@
-# Módulo 3 — Contact Flow con Amazon Lex V2
+# Módulo 3: Contact Flow con Amazon Lex V2
 
 [![Duración](https://img.shields.io/badge/Duración-~60min-blue)](#-requisitos-de-la-solución)
 [![Requisito previo](https://img.shields.io/badge/Requisito%20previo-Módulo%202-orange)](../modulo-02/README.md)
@@ -180,7 +180,7 @@ Contact Flow ID: ________________________________
 - Se verifican todas las rutas con las herramientas de prueba disponibles y el chat real.
 - El flujo está asociado al Communication Widget.
 
-## 📚 Documentación de referencia — módulo 3
+## 📚 Documentación de referencia: módulo 3
 
 Las tablas de investigación anteriores reúnen las referencias de este módulo. Para revisar específicamente los errores y timeouts, consulta [Get customer input](https://docs.aws.amazon.com/connect/latest/adminguide/get-customer-input.html); para el idioma, consulta [locales de Lex V2](https://docs.aws.amazon.com/lexv2/latest/dg/how-languages.html).
 

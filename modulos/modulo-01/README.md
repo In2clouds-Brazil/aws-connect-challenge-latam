@@ -1,4 +1,4 @@
-# Módulo 1 — Frontend + sitio S3
+# Módulo 1: Frontend + sitio S3
 
 [![Duración](https://img.shields.io/badge/Duración-~60min-blue)](#-objetivos)
 [![Dificultad](https://img.shields.io/badge/Dificultad-Principiante-green)](#-objetivos)
@@ -52,7 +52,7 @@ Crea un archivo llamado `index.html`:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conecta Company — Atención al cliente</title>
+    <title>Conecta Company: Atención al cliente</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -249,7 +249,7 @@ Bucket Name:       ________________________________
 URL del sitio S3:  ________________________________
 ```
 
-## 📚 Documentación de referencia — módulo 1
+## 📚 Documentación de referencia: módulo 1
 
 | Documento | Enlace |
 |---|---|

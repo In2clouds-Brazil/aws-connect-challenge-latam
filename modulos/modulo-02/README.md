@@ -1,4 +1,4 @@
-# Módulo 2 — Instancia Amazon Connect + Communication Widget
+# Módulo 2: Instancia Amazon Connect + Communication Widget
 
 [![Duración](https://img.shields.io/badge/Duración-~60min-blue)](#-objetivos)
 [![Requisito previo](https://img.shields.io/badge/Requisito%20previo-Módulo%201-orange)](../modulo-01/README.md)
@@ -206,7 +206,7 @@ AWS Region:         us-east-1
 
 Guarda las contraseñas únicamente en un administrador de contraseñas.
 
-## 📚 Documentación de referencia — módulo 2
+## 📚 Documentación de referencia: módulo 2
 
 | Documento | Enlace |
 |---|---|

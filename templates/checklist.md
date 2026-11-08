@@ -1,8 +1,8 @@
-# ✅ Lista de validación — Amazon Connect Lab LATAM
+# ✅ Lista de validación: Amazon Connect Lab LATAM
 
 Usa esta lista para verificar que tu implementación esté completa antes de entregarla.
 
-## Módulo 1 — Frontend + sitio S3
+## Módulo 1: Frontend + sitio S3
 
 - [ ] Archivo `index.html` creado
 - [ ] Archivo `styles.css` creado
@@ -14,7 +14,7 @@ Usa esta lista para verificar que tu implementación esté completa antes de ent
 - [ ] Sitio accesible mediante URL pública
 - [ ] URL del sitio anotada
 
-## Módulo 2 — Instancia Amazon Connect + widget
+## Módulo 2: Instancia Amazon Connect + widget
 
 - [ ] Instancia creada con alias único
 - [ ] Identity management: **Store users within Amazon Connect**, sin SSO
@@ -28,7 +28,7 @@ Usa esta lista para verificar que tu implementación esté completa antes de ent
 - [ ] Widget visible en el sitio
 - [ ] Inicio de sesión del agente en el CCP funcional
 
-## Módulo 3 — Contact Flow con Amazon Lex V2
+## Módulo 3: Contact Flow con Amazon Lex V2
 
 ### Bot Amazon Lex V2
 
@@ -53,7 +53,7 @@ Usa esta lista para verificar que tu implementación esté completa antes de ent
 - [ ] Flujo asociado al Communication Widget
 - [ ] Todas las rutas probadas con las herramientas disponibles y confirmadas en el chat
 
-## Módulo 4 — Pruebas y métricas
+## Módulo 4: Pruebas y métricas
 
 - [ ] Agente en estado **Available** durante las pruebas
 - [ ] Al menos dos conversaciones por rutas diferentes
@@ -85,8 +85,8 @@ Revisa que las evidencias no contengan credenciales, claves ni datos personales 
 |---|---|---|
 | Módulo 1 | 9 | ___ / 9 |
 | Módulo 2 | 11 | ___ / 11 |
-| Módulo 3 — Bot Lex | 6 | ___ / 6 |
-| Módulo 3 — Flujo | 11 | ___ / 11 |
+| Módulo 3: Bot Lex | 6 | ___ / 6 |
+| Módulo 3: Flujo | 11 | ___ / 11 |
 | Módulo 4 | 8 | ___ / 8 |
 | Evidencias | 10 | ___ / 10 |
 | **Total** | **55** | **___ / 55** |

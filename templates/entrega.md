@@ -1,4 +1,4 @@
-# 📋 Plantilla de entrega — Amazon Connect Lab LATAM
+# 📋 Plantilla de entrega: Amazon Connect Lab LATAM
 
 Completa este documento con tus evidencias y entrégalo al instructor. No publiques contraseñas, claves, datos personales de terceros ni transcripciones reales.
 
@@ -8,7 +8,7 @@ Completa este documento con tus evidencias y entrégalo al instructor. No publiq
 - **Fecha de finalización:** ___________________________________
 - **Tiempo total utilizado:** ___________ horas
 
-## 🌐 Entregable 1 — URL del sitio S3
+## 🌐 Entregable 1: URL del sitio S3
 
 **URL pública:**
 
@@ -18,7 +18,7 @@ http://___________________________________
 
 **Captura:** *(adjunta una imagen del sitio cargado con el widget visible)*
 
-## 🤖 Entregable 2 — Bot Amazon Lex V2
+## 🤖 Entregable 2: Bot Amazon Lex V2
 
 ### Evidencia del bot creado
 
@@ -54,7 +54,7 @@ ___________________________________
 
 **Captura de prueba en el simulador Lex:** *(bot reconociendo correctamente al menos una intent en español)*
 
-## 💬 Entregable 3 — Conversaciones de prueba
+## 💬 Entregable 3: Conversaciones de prueba
 
 ### Conversación 1
 
@@ -70,7 +70,7 @@ ___________________________________
 - **Resultado del enrutamiento:** ___________________________________
 - **Captura:** *(conversación en el sitio, por otra ruta)*
 
-## 📊 Entregable 4 — Métricas históricas
+## 📊 Entregable 4: Métricas históricas
 
 **Captura:** *(informe de Historical Metrics con datos visibles)*
 
@@ -79,7 +79,7 @@ ___________________________________
 - Total de contactos: ___________
 - Tiempo promedio de atención: ___________
 
-## 🔍 Entregable 5 — Contact Search
+## 🔍 Entregable 5: Contact Search
 
 **Captura de la lista de contactos:** *(adjunta imagen)*
 
@@ -90,7 +90,7 @@ ___________________________________
 - Contacto 1: ___________________________________
 - Contacto 2: ___________________________________
 
-## 🎬 Entregable 6 — Video de demostración (recomendado)
+## 🎬 Entregable 6: Video de demostración (recomendado)
 
 - **Enlace del video:** ___________________________________
 - **Duración:** ___________ minutos

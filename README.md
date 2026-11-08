@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/images/banner.svg" alt="Amazon Connect Lab — edición LATAM" width="100%"/>
+  <img src="./assets/images/banner.svg" alt="Amazon Connect Lab: edición LATAM" width="100%"/>
 </div>
 
 <div align="center">

@@ -1,4 +1,4 @@
-# Módulo 4 — Pruebas, métricas y entrega
+# Módulo 4: Pruebas, métricas y entrega
 
 [![Duración](https://img.shields.io/badge/Duración-~60min-blue)](#-objetivos)
 [![Requisito previo](https://img.shields.io/badge/Requisito%20previo-Módulo%203-orange)](../modulo-03/README.md)
@@ -118,7 +118,7 @@ Además de estas dos evidencias, conserva los resultados de las pruebas de todos
 
 ## 🔨 Paso 3: analizar las métricas históricas
 
-Espera inicialmente **5–10 minutos** después de las pruebas; la disponibilidad de datos puede tardar más. [Referencia](https://docs.aws.amazon.com/connect/latest/adminguide/historical-metrics.html).
+Espera inicialmente **5 a 10 minutos** después de las pruebas; la disponibilidad de datos puede tardar más. [Referencia](https://docs.aws.amazon.com/connect/latest/adminguide/historical-metrics.html).
 
 ### 3.1 Acceder a Historical Metrics
 
@@ -185,7 +185,7 @@ Incluye también las evidencias del bot y sus intents que solicita la plantilla.
 
 ## 🎬 Paso 6: grabar un video de demostración (recomendado)
 
-Graba un video de **3–5 minutos** que muestre:
+Graba un video de **3 a 5 minutos** que muestre:
 
 1. El sitio S3 cargándose en el navegador.
 2. El widget visible.
@@ -224,7 +224,7 @@ Puedes utilizar Loom, OBS o una herramienta de grabación de pantalla disponible
 - [ ] Contact Search utilizado
 - [ ] Todas las evidencias recopiladas
 
-## 📚 Documentación de referencia — módulo 4
+## 📚 Documentación de referencia: módulo 4
 
 Además de las referencias de lectura y de métricas anteriores, consulta el [diagnóstico del CCP](https://docs.aws.amazon.com/connect/latest/adminguide/troubleshooting.html) para problemas de recepción de contactos.
 

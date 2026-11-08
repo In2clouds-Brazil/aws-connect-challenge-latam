@@ -2,7 +2,7 @@
 
 Consulta esta guía cuando encuentres problemas durante el laboratorio. Para otros casos, revisa el [diagnóstico oficial de Amazon Connect](https://docs.aws.amazon.com/connect/latest/adminguide/troubleshooting.html).
 
-## Módulo 1 — Frontend + sitio S3
+## Módulo 1: Frontend + sitio S3
 
 ### El sitio devuelve 403 (Forbidden)
 
@@ -67,7 +67,7 @@ Referencias: [políticas de bucket](https://docs.aws.amazon.com/AmazonS3/latest/
 
 [Guía del widget](https://docs.aws.amazon.com/connect/latest/adminguide/connect-widget-on-website.html).
 
-## Módulo 2 — Instancia Amazon Connect + widget
+## Módulo 2: Instancia Amazon Connect + widget
 
 ### “The access URL is already in use”
 
@@ -101,7 +101,7 @@ Usa el endpoint del sitio S3 del módulo 1. Cópialo desde **Properties → Stat
 
 [Configuración del widget](https://docs.aws.amazon.com/connect/latest/adminguide/add-chat-to-website.html).
 
-## Módulo 3 — Amazon Lex V2 + Contact Flow
+## Módulo 3: Amazon Lex V2 + Contact Flow
 
 ### El bot no reconoce la intención
 
@@ -165,7 +165,7 @@ En **Get customer input**, usa **Chat timeout** para la interacción con Lex. Co
 
 [Habilitar logs de flujo](https://docs.aws.amazon.com/connect/latest/adminguide/contact-flow-logs.html).
 
-## Módulo 4 — Pruebas y métricas
+## Módulo 4: Pruebas y métricas
 
 ### El chat no llega al CCP del agente
 
@@ -180,7 +180,7 @@ Referencias: [estado del agente](https://docs.aws.amazon.com/connect/latest/admi
 
 ### Las métricas históricas no muestran datos
 
-1. Espera unos minutos; prueba nuevamente después de 10–15 minutos si aún no aparecen. No es un plazo garantizado.
+1. Espera unos minutos; prueba nuevamente después de 10 a 15 minutos si aún no aparecen. No es un plazo garantizado.
 2. Comprueba fecha, zona horaria, cola y canal.
 3. Confirma que finalizaste las conversaciones y el trabajo posterior.
 4. Amplía el intervalo del informe.

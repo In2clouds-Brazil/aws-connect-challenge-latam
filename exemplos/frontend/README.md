@@ -1,4 +1,4 @@
-# Ejemplo de frontend — Conecta Company
+# Ejemplo de frontend: Conecta Company
 
 Este directorio contiene el sitio que crearás en el **módulo 1**. Agregarás el widget en el **módulo 2**.
 
